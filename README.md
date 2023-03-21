@@ -1,5 +1,5 @@
 ![algorithm](https://user-images.githubusercontent.com/128472454/226678089-ab939d07-d316-4cd1-9e0c-942ea94406d6.jpg)
-<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/HackerRank_Problem-Solving">Hacker Rank Problem Solution</a></h1></div>
+<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/Algorithm">Algorithm</a></h1></div>
 
 **These Contain Some Algorithm Program that I have done while understanding Programming Concepts.**
 
