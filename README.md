@@ -13,7 +13,7 @@
   &emsp;
   <img src="https://img.shields.io/github/languages/top/MD-MAFUJUL-HASAN/Algorithm?color=orange&style=for-the-badge">
   &emsp;
-  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASANAlgorithm?color=lime&style=for-the-badge">
+  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/Algorithm?color=lime&style=for-the-badge">
   &emsp;
   <img src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/Algorithm?color=darkgreen&style=for-the-badge">
   &emsp;
